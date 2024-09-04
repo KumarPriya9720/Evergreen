@@ -1,0 +1,94 @@
+.parallax-1{
+    background: url('https://img.freepik.com/premium-photo/chef-cooking-busy-restaurant-kitchen-4xjpg_835197-14283.jpg') no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment:scroll;
+    
+}
+.parallax-inner{
+    padding: 13% 0;
+}
+.parallax-2{
+    background: url('https://tickncook.com/wp-content/uploads/2022/03/definition-kds.jpg');
+    background-size:cover;
+    background-position: center;
+    background-attachment:scroll;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'VCR OSD Mono', sans-serif;;
+    text-transform: uppercase;
+    
+}
+p{
+    font-size: 32px;
+    color:white;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 20px 0 10px;
+    font-family:"Sevillana","cursive";
+   
+}
+.h2{
+    font-family: "Lilita One", sans-serif;
+}
+.display3{
+    font-family:"Playwrite PL", "cursive";
+    word-wrap: break-word;
+}
+.text{
+    text-align: justify;
+}
+.span{
+    position: relative;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-60%);
+    text-align: justify;
+    font-weight: bold;
+    margin-top: 5%;
+    width: 30%;
+    text-align: center;
+    border-radius: 15px;
+}
+.main{
+    margin-top: 2%;
+    justify-content: center;
+}
+.menu{
+    justify-content: center;
+
+}
+.cards{
+    width: 50%;
+    height: 25%;
+    border: 1px solid orange;
+
+}
+
+.cards-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+}
+.cards-text{
+    color: white;
+}
+img{
+    opacity: 0.6;
+}
+.display4{
+    font-family: "Oswald", "sans-serif";
+}
+.display2{
+    font-family: "Sevillana", cursive;
+}
+.display5{
+    font-family:"Kalnia Glaze", serif;
+    color: white;
+}
+.display1{
+    font-family:"Playwrite ES", cursive
+}

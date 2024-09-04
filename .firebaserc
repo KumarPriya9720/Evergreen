@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "evergreen-44bff",
+    "staging":"evergreen-44bff"
+  },
+  "targets": {
+    "evergreen-44bff": {
+      "hosting": {
+        "staging": [
+          "evergreen-44bff"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
+
